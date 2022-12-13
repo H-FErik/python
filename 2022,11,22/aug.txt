@@ -1,0 +1,11 @@
+aug= [38,36,31,27,38,24,29,29,30,24,33,27,32,24,36,31,41,30,26,34,26,30,31,26,36,23,31,28,31,32,28]
+
+
+Lehet e augusztus havi hóméséklet
+A legnagyobb hóméséklet
+A legkisebb hóméséklet
+Hány alkalommal volt a hőmeséklet 31 fok felett?
+mekkora volt a hómérséklet augusztus 20.-án?
+mekkora volt az átlag hőmérséklet?
+mekkora volt a hőingadoszás?
+Fájl írás
